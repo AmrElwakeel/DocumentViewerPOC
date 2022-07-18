@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Viewer Page";
+    //Layout = null;
+}
+@model string
+
+@using GleamTech.AspNet.Core
+@using GleamTech.DocumentUltimate
+@using GleamTech.DocumentUltimate.AspNet
+@using GleamTech.DocumentUltimate.AspNet.UI
+
+@{
+    var documentViewer = new DocumentViewer
+            {
+                Width = 800,
+                Height = 600,
+                Document = @"~/Documents/TassniefWF.pdf"
+    };
+    documentViewer.AllowedPermissions = DocumentViewerPermissions.All;
+    documentViewer.DeniedPermissions = DocumentViewerPermissions.Download | DocumentViewerPermissions.Print |DocumentViewerPermissions.DownloadAsPdf;
+}
+
+<title>Document Viewer</title>
+@this.RenderHead(documentViewer) 
+@this.RenderBody(documentViewer)

@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    //Layout = null;
+}
+@model string
+
+@using GleamTech.AspNet.Core
+@using GleamTech.DocumentUltimate
+@using GleamTech.DocumentUltimate.AspNet
+@using GleamTech.DocumentUltimate.AspNet.UI
+
+@{
+    var documentViewer = new DocumentViewer
+            {
+                Width = 800,
+                Height = 600,
+                Document = @"~/Documents/TassniefWF.pdf"
+    };
+}
+
+<title>Document Viewer</title>
+@this.RenderHead(documentViewer) 
+@this.RenderBody(documentViewer)

@@ -1,0 +1,27 @@
+{
+  "CacheSourceKey": "kvu1a1",
+  "CachePdfKey": "kvu1a1/kvu1a1-npq31v.pdf",
+  "CacheXpzKey": "kvu1a1/kvu1a1-jbugzq.xpz",
+  "CacheInfoKey": "kvu1a1/kvu1a1-jbugzq.json",
+  "CacheCopyKey": null,
+  "Document": "Type=FileSystem;File=TassniefWF.pdf;Location=\"Type=Physical;Path=~\\Documents\"",
+  "DocumentFileName": "TassniefWF.pdf",
+  "DownloadFileName": null,
+  "InputOptions": {
+    "Format": "Pdf",
+    "Password": null
+  },
+  "PdfOutputOptions": {
+    "Watermarks": [],
+    "FastWebViewEnabled": false,
+    "Password": null,
+    "Attachments": [],
+    "Format": "Pdf"
+  },
+  "XpzOutputOptions": {
+    "Password": "kvu1a1",
+    "HighQualityEnabled": false,
+    "Format": "Xpz"
+  },
+  "Attachments": []
+}
