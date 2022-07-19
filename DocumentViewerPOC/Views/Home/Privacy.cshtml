@@ -17,7 +17,8 @@
                 Document = @"~/Documents/TassniefWF.pdf"
     };
     documentViewer.AllowedPermissions = DocumentViewerPermissions.All;
-    documentViewer.DeniedPermissions = DocumentViewerPermissions.Download | DocumentViewerPermissions.Print |DocumentViewerPermissions.DownloadAsPdf;
+    documentViewer.DeniedPermissions = DocumentViewerPermissions.Download 
+    | DocumentViewerPermissions.Print |DocumentViewerPermissions.DownloadAsPdf| DocumentViewerPermissions.SelectText;
 }
 
 <title>Document Viewer</title>
