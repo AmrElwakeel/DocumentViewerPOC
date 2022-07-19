@@ -1,0 +1,31 @@
+{
+  "CacheSourceKey": "11i8tyj",
+  "CachePdfKey": "11i8tyj/11i8tyj-hdto19.pdf",
+  "CacheXpzKey": "11i8tyj/11i8tyj-8x39xv.xpz",
+  "CacheInfoKey": "11i8tyj/11i8tyj-8x39xv.json",
+  "CacheCopyKey": null,
+  "Document": "Type=FileSystem;File=Document.doc;Location=\"Type=Physical;Path=~\\Documents\"",
+  "DocumentFileName": "Document.doc",
+  "DownloadFileName": null,
+  "InputOptions": {
+    "$type": "GleamTech.DocumentUltimate.WordProcessingInputOptions, GleamTech.DocumentUltimate",
+    "FieldFileName": "Document.doc",
+    "UpdateFields": true,
+    "Encoding": null,
+    "Format": "Doc",
+    "Password": null
+  },
+  "PdfOutputOptions": {
+    "Watermarks": [],
+    "FastWebViewEnabled": false,
+    "Password": null,
+    "Attachments": [],
+    "Format": "Pdf"
+  },
+  "XpzOutputOptions": {
+    "Password": "11i8tyj",
+    "HighQualityEnabled": false,
+    "Format": "Xpz"
+  },
+  "Attachments": null
+}

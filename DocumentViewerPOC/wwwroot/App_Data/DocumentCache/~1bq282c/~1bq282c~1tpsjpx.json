@@ -1,0 +1,27 @@
+{
+  "CacheSourceKey": "1bq282c",
+  "CachePdfKey": "1bq282c/1bq282c-ab7m6i.pdf",
+  "CacheXpzKey": "1bq282c/1bq282c-1tpsjpx.xpz",
+  "CacheInfoKey": "1bq282c/1bq282c-1tpsjpx.json",
+  "CacheCopyKey": null,
+  "Document": "Type=FileSystem;File=test.pptx;Location=\"Type=Physical;Path=~\\Documents\"",
+  "DocumentFileName": "test.pptx",
+  "DownloadFileName": null,
+  "InputOptions": {
+    "Format": "Pptx",
+    "Password": null
+  },
+  "PdfOutputOptions": {
+    "Watermarks": [],
+    "FastWebViewEnabled": false,
+    "Password": null,
+    "Attachments": [],
+    "Format": "Pdf"
+  },
+  "XpzOutputOptions": {
+    "Password": "1bq282c",
+    "HighQualityEnabled": false,
+    "Format": "Xpz"
+  },
+  "Attachments": null
+}

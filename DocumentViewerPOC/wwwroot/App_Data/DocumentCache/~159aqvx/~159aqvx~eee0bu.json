@@ -1,0 +1,31 @@
+{
+  "CacheSourceKey": "159aqvx",
+  "CachePdfKey": "159aqvx/159aqvx-y2fx4w.pdf",
+  "CacheXpzKey": "159aqvx/159aqvx-eee0bu.xpz",
+  "CacheInfoKey": "159aqvx/159aqvx-eee0bu.json",
+  "CacheCopyKey": null,
+  "Document": "Type=FileSystem;File=Userstories.docx;Location=\"Type=Physical;Path=~\\Documents\"",
+  "DocumentFileName": "Userstories.docx",
+  "DownloadFileName": null,
+  "InputOptions": {
+    "$type": "GleamTech.DocumentUltimate.WordProcessingInputOptions, GleamTech.DocumentUltimate",
+    "FieldFileName": "Userstories.docx",
+    "UpdateFields": true,
+    "Encoding": null,
+    "Format": "Docx",
+    "Password": null
+  },
+  "PdfOutputOptions": {
+    "Watermarks": [],
+    "FastWebViewEnabled": false,
+    "Password": null,
+    "Attachments": [],
+    "Format": "Pdf"
+  },
+  "XpzOutputOptions": {
+    "Password": "159aqvx",
+    "HighQualityEnabled": false,
+    "Format": "Xpz"
+  },
+  "Attachments": null
+}

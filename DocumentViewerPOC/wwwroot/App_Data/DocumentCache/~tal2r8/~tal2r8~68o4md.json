@@ -1,0 +1,31 @@
+{
+  "CacheSourceKey": "tal2r8",
+  "CachePdfKey": "tal2r8/tal2r8-1ia5mep.pdf",
+  "CacheXpzKey": "tal2r8/tal2r8-68o4md.xpz",
+  "CacheInfoKey": "tal2r8/tal2r8-68o4md.json",
+  "CacheCopyKey": null,
+  "Document": "Type=FileSystem;File=TextFile.txt;Location=\"Type=Physical;Path=~\\Documents\"",
+  "DocumentFileName": "TextFile.txt",
+  "DownloadFileName": null,
+  "InputOptions": {
+    "$type": "GleamTech.DocumentUltimate.WordProcessingInputOptions, GleamTech.DocumentUltimate",
+    "FieldFileName": "TextFile.txt",
+    "UpdateFields": true,
+    "Encoding": null,
+    "Format": "Txt",
+    "Password": null
+  },
+  "PdfOutputOptions": {
+    "Watermarks": [],
+    "FastWebViewEnabled": false,
+    "Password": null,
+    "Attachments": [],
+    "Format": "Pdf"
+  },
+  "XpzOutputOptions": {
+    "Password": "tal2r8",
+    "HighQualityEnabled": false,
+    "Format": "Xpz"
+  },
+  "Attachments": null
+}

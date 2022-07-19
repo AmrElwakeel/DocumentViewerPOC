@@ -1,0 +1,27 @@
+{
+  "CacheSourceKey": "lwlmdb",
+  "CachePdfKey": "lwlmdb/lwlmdb-npq31v.pdf",
+  "CacheXpzKey": "lwlmdb/lwlmdb-17y1uul.xpz",
+  "CacheInfoKey": "lwlmdb/lwlmdb-17y1uul.json",
+  "CacheCopyKey": null,
+  "Document": "Type=FileSystem;File=Document.pdf;Location=\"Type=Physical;Path=~\\Documents\"",
+  "DocumentFileName": "Document.pdf",
+  "DownloadFileName": null,
+  "InputOptions": {
+    "Format": "Pdf",
+    "Password": null
+  },
+  "PdfOutputOptions": {
+    "Watermarks": [],
+    "FastWebViewEnabled": false,
+    "Password": null,
+    "Attachments": [],
+    "Format": "Pdf"
+  },
+  "XpzOutputOptions": {
+    "Password": "lwlmdb",
+    "HighQualityEnabled": false,
+    "Format": "Xpz"
+  },
+  "Attachments": null
+}

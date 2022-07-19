@@ -1,0 +1,31 @@
+{
+  "CacheSourceKey": "282s0p",
+  "CachePdfKey": "282s0p/282s0p-lccws5.pdf",
+  "CacheXpzKey": "282s0p/282s0p-mbxl4.xpz",
+  "CacheInfoKey": "282s0p/282s0p-mbxl4.json",
+  "CacheCopyKey": null,
+  "Document": "Type=FileSystem;File=Document.docx;Location=\"Type=Physical;Path=~\\Documents\"",
+  "DocumentFileName": "Document.docx",
+  "DownloadFileName": null,
+  "InputOptions": {
+    "$type": "GleamTech.DocumentUltimate.WordProcessingInputOptions, GleamTech.DocumentUltimate",
+    "FieldFileName": "Document.docx",
+    "UpdateFields": true,
+    "Encoding": null,
+    "Format": "Docx",
+    "Password": null
+  },
+  "PdfOutputOptions": {
+    "Watermarks": [],
+    "FastWebViewEnabled": false,
+    "Password": null,
+    "Attachments": [],
+    "Format": "Pdf"
+  },
+  "XpzOutputOptions": {
+    "Password": "282s0p",
+    "HighQualityEnabled": false,
+    "Format": "Xpz"
+  },
+  "Attachments": null
+}

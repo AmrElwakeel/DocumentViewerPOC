@@ -1,0 +1,33 @@
+{
+  "CacheSourceKey": "1cngdvt",
+  "CachePdfKey": "1cngdvt/1cngdvt-4z1dcu.pdf",
+  "CacheXpzKey": "1cngdvt/1cngdvt-2mak7b.xpz",
+  "CacheInfoKey": "1cngdvt/1cngdvt-2mak7b.json",
+  "CacheCopyKey": null,
+  "Document": "Document.docx",
+  "DocumentHandlerType": null,
+  "DocumentHandlerParameters": null,
+  "DocumentLocation": "~\\Documents",
+  "DocumentFileName": "Document.docx",
+  "InputOptions": {
+    "$type": "GleamTech.DocumentUltimate.WordProcessingInputOptions, GleamTech.DocumentUltimate",
+    "FieldFileName": null,
+    "UpdateFields": true,
+    "Encoding": null,
+    "Format": "Docx",
+    "Password": null
+  },
+  "PdfOutputOptions": {
+    "Watermarks": [],
+    "FastWebViewEnabled": false,
+    "Password": null,
+    "Attachments": [],
+    "Format": "Pdf"
+  },
+  "XpzOutputOptions": {
+    "Password": "1cngdvt",
+    "HighQualityEnabled": false,
+    "Format": "Xpz"
+  },
+  "Attachments": []
+}
